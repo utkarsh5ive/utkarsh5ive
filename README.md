@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me utkarshpatel0506@gmail.com
-- 😄 Pronouns: Honey
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: 
 
 <!---
