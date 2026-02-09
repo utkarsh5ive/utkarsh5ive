@@ -7,9 +7,7 @@
 - 📍 India
 
 ## 🔗 Connect With Me
-[LinkedIn](https://linkedin.com/in/yourname) |
-[Twitter](https://twitter.com/yourname) |
-[Instagram](https://instagram.com/yourname)
+[LinkedIn](https://www.linkedin.com/in/utkarsh-patel-28228b330/) |
 
 ## 🛠️ Tech Stack
 <p align="left">
@@ -27,9 +25,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/utkarsh-patel-28228b330 )
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh5ive&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh5ive&layout=compact&theme=tokyonight)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
