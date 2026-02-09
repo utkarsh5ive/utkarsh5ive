@@ -1,9 +1,9 @@
 # Hi 👋, I'm Utkarsh Patel
 
 ## 👨‍💻 About Me
-- 🔭 Frontend Developer
-- 🌱 Learning React & JavaScript
-- ✍️ Writing blogs on Medium & Hashnode
+- 🔭 Full Stack Developer
+- 🌱 Learning Three JS
+- 📷 Cinematographer
 - 📍 India
 
 ## 🔗 Connect With Me
